@@ -1,3 +1,7 @@
+```
+Token Address: 0x6557f17e9c6Ff4f721d43C984ef58FD136AaB721
+```
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
